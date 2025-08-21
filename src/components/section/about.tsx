@@ -16,18 +16,17 @@ export function About() {
             <CardHeader>
               <CardTitle className="text-base sm:text-lg">What I do</CardTitle>
               <CardDescription className="text-sm">
-                Blending engineering and governance to build secure, privacy‑first products.
+                I’m a Systems and Information Technology graduate with a deep curiosity for tech—exploring new tools and building things is what I love to do.
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-3 sm:space-y-4">
               <p className="text-sm sm:text-base">
-                I help teams ship features without compromising security by designing practical controls, automating
-                evidence collection, and translating compliance into developer experience.
+                As long as I’m working on a cool project, I love helping teams build features and models by solving requirements and coming up with ideas for more optimized solutions based on the use case.
               </p>
               <ul className="list-disc pl-5 space-y-1 sm:space-y-2 text-xs sm:text-sm text-muted-foreground">
-                <li>Threat modeling & secure SDLC enablement</li>
-                <li>Risk assessment & ISO/IEC 27001/27701 alignment</li>
-                <li>Cloud posture & access review automation</li>
+                <li>Backend development: Optimize architectures and integrate databases/APIs</li>
+                <li>Frontend development: Enhancing user-facing features and seamless backend-UI interaction</li>
+                <li>Machine learning: Integrating models and optimizing processes with AI-driven solutions.</li>
               </ul>
             </CardContent>
           </Card>

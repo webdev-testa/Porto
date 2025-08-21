@@ -54,23 +54,23 @@ export const PROJECTS: Array<{
     repo?: string
 }> = [
     {
-        title: "Threat Modeling Toolkit",
-        blurb:"A lightweight, opinionated toolkit that generates attack trees from system diagrams and exports mitigations to Jira.",
-        tags: ["TypeScript", "React", "D3", "Security"],
+        title: "Job Portal LG SM",
+        blurb:"Back-end features for a job portal website, especially for managing tests for interviewees, authorization views to job opening(internal-side), bug fixing, etc.",
+        tags: ["Java", "Springboot", "Lombok Plugin"],
         href: "#",
         repo: "#",
     },
     {
-        title: "Privacy Impact Wizard",
-        blurb: "Guided PIA flow with risk scoring, evidence attachments, and export to ISO/IEC 27701 Annex mapping.",
-        tags: ["Next.js", "Tailwind", "PWW 27701"],
+        title: "OpenAI Based Google sheet",
+        blurb: "Integrated an OpenAI model with a spreadsheet linked to an internal document database to enable automated responses to queries about company security policies.",
+        tags: ["Appscript", "Javascript", "AWS S3","AWS Lambda"],
         href: "#",
         repo: "#",
     },
     {
-        title: "Audit Log Analyzer",
-        blurb: "Parses cloud provider logs to highlight anomalous access patterns and policy drift.",
-        tags: ["Python", "Pandas", "Cloud"],
+        title: "Food Image Recognition: Calorie detector",
+        blurb: "Machine Learning Model that process photos of foods and give info about it's calorie",
+        tags: ["Python", "Pandas", "Tensorflow","Jupyter Notebook"],
         href: "#",
         repo: "#",
     },
