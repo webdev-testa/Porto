@@ -43,7 +43,7 @@ const ME = {
     linkedin: "https://www.linkedin.com/in/ammardito-shafaat-65a255216/",
     email: "ammarditoshafaat2001@gmail.com",
   },
-  resumeUrl: "/resume.pdf", // place a file at public/resume.pdf
+  resumeUrl: new URL("resume.pdf", import.meta.env.BASE_URL).toString(),
   skills: ["TypeScript", "React", "Tailwind", "Shadcn", "Node.js", "Java", "Springboot", "Python", "Tensorflow"],
 }
 
